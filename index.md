@@ -121,6 +121,7 @@ And it’s a workable foundation.
 
 ## Working with Git via GitHub
 
+1. What is GitHub?
 1. Create an account/login at [github.com](http://github.com)
 1. [Create a new repository](https://github.com/new) called `writing`
    - Make it private
@@ -149,6 +150,8 @@ And it’s a workable foundation.
 - Set up a view (Kanban)
 - Make up useful columns (backlog, todo, in progress)
 - Make the project digestible issues
+- Github’s own [Learning about Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects)
+- Michael Richard’s “[Project Management Tools & Templates](https://github.com/mirichard/pm-tools-templates)” website on GitHub that provides various resources and examples.
 
 ---
 
