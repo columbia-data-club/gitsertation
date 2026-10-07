@@ -11,7 +11,7 @@ NY, NY, 2026
 
 ---
 
-http://talks.moacir.com/gitsertation-1-2022/
+http://columbia-data-club.github.io/gitsertation
 
 Note: I always make the slides for my talks and workshops available online, so
 here they are if you want to follow along at home or review the links, etc.,
