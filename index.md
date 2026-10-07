@@ -136,6 +136,41 @@ And it’s a workable foundation.
 
 ---
 
+## Good First Steps
+
+- Initialize the Wiki
+- Create Milestones (big, waterfally moments)
+- Create Labels (for different kinds of parts of the project)
+
+---
+
+## Projects Mode
+
+- Set up a view (Kanban)
+- Make up useful columns (backlog, todo, in progress)
+- Make the project digestible issues
+
+---
+
+## This Is Very Weird
+
+- Git is for tracking software development
+- This seems like it’s just tracking ideas, not writing
+
+---
+
+## Writing in Plain Text
+
+- “[The Plain Person’s Guide to Plain Text Social Science](https://kieranhealy.org/publications/plain-person-text/),” by Kieran Healy, shows how to use tools typically associated with software development as, instead, ways of structuring academic projects.
+- I’ve [run workshops similar to this one](https://talks.moacir.com/-/gitsertation-2022#/17) where I add sections on using TeX or pandoc in VS Code.
+- [Prosemode.nvim](https://github.com/liamtimms/prosemode.nvim), a mode for writing prose in Neovim, the editor I use.
+
+---
+
+# Keep Track of What You Did
+
+<h2 class="fragment">With Git or not…</h2>
+
 ---
 
 ## Thanks!
